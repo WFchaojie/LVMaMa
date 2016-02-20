@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Glance - LVMaMa WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>Glance - LVWatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>7</integer>
+		</dict>
+		<key>LVMaMa 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>LVMaMa WatchKit App 2.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>8</integer>
+		</dict>
+		<key>LVMaMa WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>LVMaMa.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>LVWatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>Notification - LVMaMa WatchKit App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>Notification - LVWatch.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>6</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>0540CA821B95CF1C004FCDFF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0540CAAE1B95D2C0004FCDFF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>05AB7CDE1C22C9BB00D755D9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>05AB7D0A1C22CADA00D755D9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>05AB7D661C22CEDC00D755D9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>187F48061B15ECF100F924F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>187F48211B15ECF100F924F6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,15 @@
+Path: .
+Working Copy Root Path: /Workspace/Lvmm V7.2.0
+URL: http://zhouyi@192.168.0.7/svn/client/ios/branches/lvmama_iphone7.2.0/lvmama_iphone
+Repository Root: http://zhouyi@192.168.0.7/svn/client
+Repository UUID: 1ba19129-4c31-4715-b510-40851a903b70
+Revision: 36952
+Node Kind: directory
+Schedule: normal
+Last Changed Author: zhouyi
+Last Changed Rev: 36952
+Last Changed Date: 2015-08-20 15:11:56 +0800 (Thu, 20 Aug 2015)
+
+complie time
+2015-08-20 15:25:46
+joyu

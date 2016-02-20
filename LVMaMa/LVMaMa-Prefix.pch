@@ -1,0 +1,35 @@
+//
+//  Prefix header
+//
+//  The contents of this file are implicitly included at the beginning of every source file.
+//
+
+#import <Availability.h>
+
+#ifndef __IPHONE_3_0
+#warning "This project uses features only available in iOS SDK 3.0 and later."
+#endif
+
+#ifdef __OBJC__
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+#import"LVDownLoadManager.h"
+#import"UIImageView+WebCache.h"
+#import "BaseViewController.h"
+#import "lvmamaAppDelegate.h"
+#import "UIButton+WebCache.h"
+#import "Network.h"
+#import "UMShare.h"
+#import "scanHeader.h"
+
+#define UICOLOR_GRAY [UIColor colorWithRed:0.96f green:0.96f blue:0.96f alpha:1.00f]
+
+
+
+#define iPhone6Plus ([UIScreen instancesRespondToSelector:@selector(currentMode)] ? CGSizeEqualToSize(CGSizeMake(1242,2208), [[UIScreen mainScreen] currentMode].size) : NO)
+
+#define HomeCellHeight 180
+
+
+#endif

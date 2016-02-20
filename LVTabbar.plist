@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>imageselect</key>
+		<string>tabIconSel0.png</string>
+		<key>image</key>
+		<string>tabIcon0.png</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>tabIcon1.png</string>
+		<key>imageselect</key>
+		<string>tabIconSel1.png</string>
+	</dict>
+	<dict>
+		<key>imageselect</key>
+		<string>tabIconSel2.png</string>
+		<key>image</key>
+		<string>tabIcon2.png</string>
+	</dict>
+	<dict>
+		<key>image</key>
+		<string>tabIcon3.png</string>
+		<key>imageselect</key>
+		<string>tabIconSel3.png</string>
+	</dict>
+</array>
+</plist>
